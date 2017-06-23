@@ -1,0 +1,4 @@
+-	Wird der Hash auf allen Datenbanken gefunden, besteht die Möglichkeit, dass er im Label nicht angezeigt
+	wird, die Lösung existiert jedoch und lässt sich per "Copy to Clipboard" abfragen
+
+-	'Copy to Clipboard' zeigt bei 'Nicht gefunden' eines Teil des Quelltexts
